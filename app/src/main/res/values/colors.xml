@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="valid_green">#4CAF50</color>
+    <color name="invalid_red">#F44336</color>
+    <color name="indicator_neutral">#787878</color>
+</resources>
